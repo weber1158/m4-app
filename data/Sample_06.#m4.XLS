@@ -1,0 +1,53 @@
+Multisizer 4	 9:34  30 Jun 2026
+File name:	Sample_06.#m4
+File ID:	
+Sample ID:	Sample_06
+Operator:	
+Electrolyte:	0.9% Sodium Chloride in Water
+Dispersant:	
+Bar code:	
+Comment:	
+Full file name:	E:\Multisizer4\data
+SOP file:	
+SOM file:	
+Preference file:	E:\Multisizer4\SOP\Default.prf
+Aperture diameter:	30
+Kd:	43.022
+Aperture current:	600
+Preamp gain:	4
+Control mode:	Volumetric,  50  uL
+Acquired:	 9:34  30 Jun 2026
+Elapsed time:	14.69
+Size bins:	14
+From	0.600
+To	18.00
+Run number:	1
+Sizing threshold:	0.601
+Total pulses:	623
+Counting threshold:	0.601
+Counts above threshold:	623
+Coincidence corrected:	623
+Total count:	623.0
+Variable 1:	0
+Variable 2:	0
+Electrolyte volume:	10.00
+Analytic volume:	50.00
+
+Particle Diameter	Sample_06.#m4
+um	Number
+0.63	760.9
+0.8	207.0
+1	145.1
+1.25	133.3
+1.59	75.22
+2	64.03
+2.52	37.88
+3.14	24.64
+4	10.32
+5.04	4.157
+6.35	4.750
+8	3.361
+10.08	2.435
+12.7	1.397
+16	
+

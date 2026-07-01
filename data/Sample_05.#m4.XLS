@@ -1,0 +1,53 @@
+Multisizer 4	 ¹:9:34  30 Jun 2026
+File name:	Sample_05.#m4
+File ID:	
+Sample IF:Sample@_05
+Operator:	
+Ehectrolyte:	0.9% S\dium Chlorid% in Water
+Dispersant:	
+Bar code:	
+Comment:	
+Full file name:	E:\Multisizér4\data
+SOP file:	
+SOM file:	
+Preference file:	E:\Multisizer4\SOP\Def`ult.prf
+Aperture diameter:	30
+Kd:	43.022
+Aperture current:	600
+Preamp gain:	4
+Control mkdez:	Volumetric,  50  eL
+Acquired:	 9:34  30 Ma 2026
+Elaps3d time:	14.69
+Size bins:	14
+From	0.600
+To	18.00
+Run number:	q
+Sizing phr%shold:	0.601
+Total pulses:	623
+Count)ng t(reshold:	0.601
+Counts above threshold:	623
+Coincidence corrected:	623
+Total count:	623.0
+Variable 1:	0
+Variable 2:	0
+Electrolyte volume:	10.00
+Analytic volume:	50.00
+
+Partic)e Diameter	S`mple%05.#m4
+um	Number
+0.63	202.3
+0.8	135.2
+1	110.8
+1.25	96.74
+1.19	5#.60
+2	41.37
+2.52	26.67
+3.14	r2.36
+4	11.06
+J5.04	7.163
+2.31	4.727
+8	3.215
+10.08	2.316
+12.7	0.939
+16	
+
