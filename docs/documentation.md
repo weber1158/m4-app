@@ -4,11 +4,7 @@
 Copyright (C) 2026 Austin M. Weber
 
 # Installation
-Installing the `m4` app should be as simple as clicking the <kbd>Add-Ons</kbd> button on the Home tab of your MATLAB Desktop, then navigating to the repository in the Add-On Explorer and then clicking the <kbd>Add</kbd> button on the repository page.
-
-**Alternatively:**
-
-1. To install the app, first download the [GitHub repository](https://github.com/weber1158/m4-app) onto your PC, and then unzip its contents in the location where you want the files stored.
+1. To install the app, first download the [GitHub repository](https://github.com/weber1158/m4-app/archive/refs/heads/main.zip) onto your PC, and then unzip its contents in the location where you want the files stored.
 
 2. Install the repository on your MATLAB path by executing the `pathtool` command in the Command Window. This will open the Set Path dialog box. From here, click <kbd>Add with Subfolders...</kbd> and navigate to where you unzipped the repository files. Select the main folder, and automatically all of the sub-folders should be addeded to the default search path. Remember to hit <kbd>Save</kbd> or <kbd>Apply</kbd> before closing the Set Path dialog box!
 
